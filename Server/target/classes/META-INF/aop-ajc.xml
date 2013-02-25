@@ -1,0 +1,44 @@
+<aspectj>
+<aspects>
+<aspect name="com.omo.domain.Schedule_Roo_JavaBean"/>
+<aspect name="com.omo.domain.OrderItem_Roo_Mongo_Entity"/>
+<aspect name="com.omo.repository.MenuRepository_Roo_Mongo_Repository"/>
+<aspect name="com.omo.web.OrderController_Roo_Controller"/>
+<aspect name="com.omo.domain.OrderItem_Roo_ToString"/>
+<aspect name="com.omo.domain.Restaurant_Roo_ToString"/>
+<aspect name="com.omo.domain.MenuItem_Roo_Mongo_Entity"/>
+<aspect name="com.omo.web.MenuItemController_Roo_Controller"/>
+<aspect name="com.omo.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.omo.service.OrderServiceImpl_Roo_Service"/>
+<aspect name="com.omo.domain.MenuItem_Roo_ToString"/>
+<aspect name="com.omo.domain.Reseller_Roo_JavaBean"/>
+<aspect name="com.omo.domain.Schedule_Roo_Mongo_Entity"/>
+<aspect name="com.omo.service.MenuServiceImpl_Roo_Service"/>
+<aspect name="com.omo.web.MenuController_Roo_Controller"/>
+<aspect name="com.omo.repository.ResellerRepository_Roo_Mongo_Repository"/>
+<aspect name="com.omo.service.MenuService_Roo_Service"/>
+<aspect name="com.omo.repository.OrderRepository_Roo_Mongo_Repository"/>
+<aspect name="com.omo.web.ScheduleController_Roo_Controller"/>
+<aspect name="com.omo.domain.MenuItem_Roo_JavaBean"/>
+<aspect name="com.omo.domain.Reseller_Roo_Mongo_Entity"/>
+<aspect name="com.omo.domain.OrderItem_Roo_JavaBean"/>
+<aspect name="com.omo.domain.Menu_Roo_ToString"/>
+<aspect name="com.omo.service.OrderService_Roo_Service"/>
+<aspect name="com.omo.domain.Restaurant_Roo_JavaBean"/>
+<aspect name="com.omo.domain.Reseller_Roo_ToString"/>
+<aspect name="com.omo.domain.Schedule_Roo_ToString"/>
+<aspect name="com.omo.domain.Order_Roo_ToString"/>
+<aspect name="com.omo.repository.RestaurantRepository_Roo_Mongo_Repository"/>
+<aspect name="com.omo.web.RestaurantController_Roo_Controller"/>
+<aspect name="com.omo.repository.ScheduleRepository_Roo_Mongo_Repository"/>
+<aspect name="com.omo.domain.Menu_Roo_Mongo_Entity"/>
+<aspect name="com.omo.repository.MenuItemRepository_Roo_Mongo_Repository"/>
+<aspect name="com.omo.domain.Restaurant_Roo_Mongo_Entity"/>
+<aspect name="com.omo.domain.Order_Roo_JavaBean"/>
+<aspect name="com.omo.domain.Order_Roo_Mongo_Entity"/>
+<aspect name="com.omo.web.OrderItemController_Roo_Controller"/>
+<aspect name="com.omo.web.ResellerController_Roo_Controller"/>
+<aspect name="com.omo.domain.Menu_Roo_JavaBean"/>
+</aspects>
+</aspectj>
+

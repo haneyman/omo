@@ -7,6 +7,8 @@
         <field:input field="description" id="c_com_omo_domain_MenuItem_description" z="BRdJ+hX2IEdVcZhFwFEWyOSAAMQ="/>
         <field:select field="type" id="c_com_omo_domain_MenuItem_type" items="${menuitemtypeses}" path="menuitemtypeses" z="6i8Qy1+iqbHw/5Ns8BXZzbmPC5Y="/>
         <field:input field="price" id="c_com_omo_domain_MenuItem_price" z="CzOQFfBvs3gA+zkqnpq8DgtFdnE="/>
+        <field:input field="sortOrder" id="c_com_omo_domain_MenuItem_sortOrder" validationMessageCode="field_invalid_integer" z="kWPVfdjknCm1/GvQewm9XONvmJU="/>
+        <field:simple field="childMenuItems" id="c_com_omo_domain_MenuItem_childMenuItems" messageCode="entity_reference_not_managed" messageCodeAttribute="Menu Item" z="q/GzBTVEZPwTbTfNEflB9tgPes8="/>
     </form:create>
     <form:dependency dependencies="${dependencies}" id="d_com_omo_domain_MenuItem" render="${not empty dependencies}" z="7ogFR2yib/0G54hXxZ6b1qBJ7sI="/>
 </div>
