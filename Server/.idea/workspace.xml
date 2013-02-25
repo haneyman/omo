@@ -2,61 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af7e77-f6fd-4cd0-9f56-3c1b54060c66" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="C:\Documents and Settings\Mark\My Documents\GitHub\omo\Server\src\main\webapp\WEB-INF\views\mennus\create.jspx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Documents and Settings\Mark\My Documents\GitHub\omo\Server\src\main\webapp\WEB-INF\views\mennus\list.jspx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Documents and Settings\Mark\My Documents\GitHub\omo\Server\src\main\webapp\WEB-INF\views\mennus\show.jspx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Documents and Settings\Mark\My Documents\GitHub\omo\Server\src\main\webapp\WEB-INF\views\mennus\update.jspx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Documents and Settings\Mark\My Documents\GitHub\omo\Server\src\main\webapp\WEB-INF\views\mennus\views.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/omoServer.iml" afterPath="$PROJECT_DIR$/omoServer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem.java" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Menu_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Menu_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Menu_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Menu_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Menu_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Menu_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/OrderItem_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/OrderItem_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/OrderItem_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/OrderItem_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/OrderItem_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/OrderItem_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Order_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Order_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Order_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Order_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Order_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Order_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Reseller_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Reseller_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Reseller_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Reseller_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Reseller_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Reseller_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Schedule_Roo_JavaBean.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Schedule_Roo_JavaBean.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Schedule_Roo_Mongo_Entity.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Schedule_Roo_Mongo_Entity.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/domain/Schedule_Roo_ToString.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/domain/Schedule_Roo_ToString.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/repository/MenuItemRepository_Roo_Mongo_Repository.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/repository/MenuItemRepository_Roo_Mongo_Repository.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/repository/MenuRepository_Roo_Mongo_Repository.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/repository/MenuRepository_Roo_Mongo_Repository.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/repository/OrderRepository_Roo_Mongo_Repository.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/repository/OrderRepository_Roo_Mongo_Repository.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/repository/ResellerRepository_Roo_Mongo_Repository.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/repository/ResellerRepository_Roo_Mongo_Repository.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/repository/RestaurantRepository_Roo_Mongo_Repository.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/repository/RestaurantRepository_Roo_Mongo_Repository.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/repository/ScheduleRepository_Roo_Mongo_Repository.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/repository/ScheduleRepository_Roo_Mongo_Repository.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/service/MenuServiceImpl_Roo_Service.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/service/MenuServiceImpl_Roo_Service.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/service/MenuService_Roo_Service.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/service/MenuService_Roo_Service.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/service/OrderServiceImpl_Roo_Service.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/service/OrderServiceImpl_Roo_Service.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/service/OrderService_Roo_Service.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/service/OrderService_Roo_Service.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/ApplicationConversionServiceFactoryBean_Roo_ConversionService.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/ApplicationConversionServiceFactoryBean_Roo_ConversionService.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/MenuController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/MenuController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/MenuItemController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/MenuItemController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/OrderController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/OrderController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/OrderItemController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/OrderItemController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/ResellerController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/ResellerController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/RestaurantController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/RestaurantController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/omo/web/ScheduleController_Roo_Controller.aj" afterPath="$PROJECT_DIR$/src/main/java/com/omo/web/ScheduleController_Roo_Controller.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/application.properties" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/i18n/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/create.jspx" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/create.jspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/list.jspx" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/list.jspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/show.jspx" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/show.jspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/update.jspx" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/update.jspx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantDataOnDemand_Roo_Configurable.aj" afterPath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantDataOnDemand_Roo_Configurable.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantDataOnDemand_Roo_DataOnDemand.aj" afterPath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantDataOnDemand_Roo_DataOnDemand.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest_Roo_Configurable.aj" afterPath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest_Roo_Configurable.aj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest_Roo_IntegrationTest.aj" afterPath="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest_Roo_IntegrationTest.aj" />
     </list>
     <ignored path="omoServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,13 +82,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RestaurantIntegrationTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RestaurantIntegrationTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="781" selection-end="781" vertical-scroll-proportion="0.13866666">
+            <state line="27" column="22" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showMenu.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menus/showMenu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -196,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/omo/domain/MenuItem.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menus/showMenu.jsp" />
       </list>
     </option>
   </component>
@@ -343,6 +304,118 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="omoServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -751,14 +824,19 @@
       <created>1361741432433</created>
       <updated>1361741432433</updated>
     </task>
+    <task id="LOCAL-00001" summary="new jsp to display menu">
+      <created>1361776090734</created>
+      <updated>1361776090734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="224" y="54" width="1252" height="959" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -767,14 +845,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32883435" sideWeight="0.49718875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23662208" sideWeight="0.660826" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23662208" sideWeight="0.67083853" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28846154" sideWeight="0.660826" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28846154" sideWeight="0.67083853" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33917397" sideWeight="0.49718875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -822,7 +900,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="new jsp to display menu" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -835,6 +913,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="new jsp to display menu" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -878,11 +957,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/omo/domain/Restaurant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menuitems/create.jspx">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="1065" selection-end="1069" vertical-scroll-proportion="0.2821577" />
@@ -980,10 +1054,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/omo/domain/RestaurantIntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="781" selection-end="781" vertical-scroll-proportion="0.13866666">
+        <state line="27" column="22" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menus/showMenu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
