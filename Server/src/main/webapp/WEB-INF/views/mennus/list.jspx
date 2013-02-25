@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_omo_domain_Mennu" items="${mennus}" z="8FQw8KUOYJAlY0t7Lvk97eE4MyY=">
+        <table:table data="${mennus}" id="l_com_omo_domain_Mennu" path="/mennus" z="kxaaGbQkeX5XXvJFeB1Z+mPg69E=">
+            <table:column id="c_com_omo_domain_Mennu_name" property="name" z="FE2QuRxYYkCes48fIJf1is+ggNg="/>
+            <table:column id="c_com_omo_domain_Mennu_description" property="description" z="2eUtvCu+w28Cp6kYmLsEISs4z3Q="/>
+            <table:column id="c_com_omo_domain_Mennu_restaurant" property="restaurant" z="fnHm/goXThINsr9IXnLe4w8C1h4="/>
+            <table:column id="c_com_omo_domain_Mennu_items" property="items" z="VVBOTIgOaq2LF9GBrn7AbZgu7ho="/>
+        </table:table>
+    </page:list>
+</div>

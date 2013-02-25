@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_com_omo_domain_Mennu" object="${mennu}" path="/mennus" z="HN/m+rKn7cYGS6eZCQT+J6dJu04=">
+        <field:display field="name" id="s_com_omo_domain_Mennu_name" object="${mennu}" z="xUbbzzed4owJioE2mdc/qBKEdpU="/>
+        <field:display field="description" id="s_com_omo_domain_Mennu_description" object="${mennu}" z="jIVvK792McZKgqIDtCfVLMSwxbc="/>
+        <field:display field="restaurant" id="s_com_omo_domain_Mennu_restaurant" object="${mennu}" z="tXj6O3qjLALJFm/JC0IhilIR8Ac="/>
+        <field:display field="items" id="s_com_omo_domain_Mennu_items" object="${mennu}" z="KujXACFfnHv1yrdBPl671oBR7GY="/>
+    </page:show>
+</div>
