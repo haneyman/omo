@@ -4,7 +4,6 @@
 package com.omo.domain;
 
 import com.omo.domain.MenuItem;
-import com.omo.domain.MenuItemTypes;
 import java.util.Set;
 
 privileged aspect MenuItem_Roo_JavaBean {

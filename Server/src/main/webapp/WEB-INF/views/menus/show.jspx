@@ -6,6 +6,9 @@
         <field:display field="restaurant" id="s_com_omo_domain_Menu_restaurant" object="${menu}" z="NfiAxhWuLX9Nmt+Ej+V2ZMWgKrs="/>
         <field:display field="name" id="s_com_omo_domain_Menu_name" object="${menu}" z="tjyAprPcZ1Oy1n8+yjoLvrbqEkQ="/>
         <field:display field="description" id="s_com_omo_domain_Menu_description" object="${menu}" z="YgHiLoQq2T5+KeGvLOz8HCtIJNw="/>
-        <field:display field="menuItems" id="s_com_omo_domain_Menu_menuItems" object="${menu}" z="cCATag2YgncVjTsENZsxhfXOAy8="/>
+        <field:display field="blurb" id="s_com_omo_domain_Menu_blurb" object="${menu}" z="OuU28bVds72ctJkeouaqazobWGA="/>
+        <field:display field="address" id="s_com_omo_domain_Menu_address" object="${menu}" z="IaAtraLB6AnpGadkwLehYpzx3JA="/>
+        <field:display field="orderContactType" id="s_com_omo_domain_Menu_orderContactType" object="${menu}" z="JDwzufIo/DIK7PcfQFMxDXokR9Y="/>
+        <field:display field="orderContact" id="s_com_omo_domain_Menu_orderContact" object="${menu}" z="FlT/g0XidlTcNOoiwfR/KGSqk/0="/>
     </page:show>
 </div>

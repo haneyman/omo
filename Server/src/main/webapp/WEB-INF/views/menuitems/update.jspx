@@ -5,9 +5,9 @@
     <form:update id="fu_com_omo_domain_MenuItem" modelAttribute="menuItem" path="/menuitems" versionField="none" z="1Jkt8YXlwarvN/V94WWzZnPujHk=">
         <field:input field="name" id="c_com_omo_domain_MenuItem_name" z="LktpPuvyCcLUYEerDIZ0U0ZNavQ="/>
         <field:input field="description" id="c_com_omo_domain_MenuItem_description" z="BRdJ+hX2IEdVcZhFwFEWyOSAAMQ="/>
-        <field:select field="type" id="c_com_omo_domain_MenuItem_type" items="${menuitemtypeses}" path="menuitemtypeses" z="6i8Qy1+iqbHw/5Ns8BXZzbmPC5Y="/>
         <field:input field="price" id="c_com_omo_domain_MenuItem_price" z="CzOQFfBvs3gA+zkqnpq8DgtFdnE="/>
         <field:input field="sortOrder" id="c_com_omo_domain_MenuItem_sortOrder" validationMessageCode="field_invalid_integer" z="kWPVfdjknCm1/GvQewm9XONvmJU="/>
         <field:simple field="childMenuItems" id="c_com_omo_domain_MenuItem_childMenuItems" messageCode="entity_reference_not_managed" messageCodeAttribute="Menu Item" z="q/GzBTVEZPwTbTfNEflB9tgPes8="/>
+        <field:input field="type" id="c_com_omo_domain_MenuItem_type" z="N/fyj/h20Muod4mlu5Rq2Lk8c9M="/>
     </form:update>
 </div>

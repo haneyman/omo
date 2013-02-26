@@ -48,7 +48,7 @@ privileged aspect ApplicationConversionServiceFactoryBean_Roo_ConversionService 
     public Converter<Menu, String> ApplicationConversionServiceFactoryBean.getMenuToStringConverter() {
         return new org.springframework.core.convert.converter.Converter<com.omo.domain.Menu, java.lang.String>() {
             public String convert(Menu menu) {
-                return new StringBuilder().append(menu.getName()).append(' ').append(menu.getDescription()).toString();
+                return new StringBuilder().append(menu.getName()).append(' ').append(menu.getDescription()).append(' ').append(menu.getBlurb()).append(' ').append(menu.getAddress()).toString();
             }
         };
     }
@@ -72,7 +72,7 @@ privileged aspect ApplicationConversionServiceFactoryBean_Roo_ConversionService 
     public Converter<MenuItem, String> ApplicationConversionServiceFactoryBean.getMenuItemToStringConverter() {
         return new org.springframework.core.convert.converter.Converter<com.omo.domain.MenuItem, java.lang.String>() {
             public String convert(MenuItem menuItem) {
-                return new StringBuilder().append(menuItem.getName()).append(' ').append(menuItem.getDescription()).append(' ').append(menuItem.getSortOrder()).append(' ').append(menuItem.getPrice()).toString();
+                return new StringBuilder().append(menuItem.getName()).append(' ').append(menuItem.getDescription()).append(' ').append(menuItem.getSortOrder()).append(' ').append(menuItem.getType()).toString();
             }
         };
     }

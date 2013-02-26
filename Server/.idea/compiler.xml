@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AjcSettings">
-    <option name="ajcPath" value="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.7.0/aspectjtools-1.7.0.jar" />
+    <option name="ajcPath" value="C:\mavenRepo\org\aspectj\aspectjtools\1.7.0\aspectjtools-1.7.0.jar" />
     <option name="cmdLineParams" value="-target 1.6" />
     <option name="explicitAspectPath" value="true" />
   </component>
@@ -18,10 +18,21 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
-    <annotationProcessing enabled="false" useClasspath="true" />
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_STRING" value="-target 1.6" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="omoServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="omoServer" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

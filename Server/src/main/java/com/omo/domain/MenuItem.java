@@ -1,13 +1,11 @@
 package com.omo.domain;
 
-import javax.persistence.CascadeType;
-import javax.persistence.ManyToOne;
-import javax.persistence.OneToMany;
-
 import org.springframework.roo.addon.javabean.RooJavaBean;
 import org.springframework.roo.addon.layers.repository.mongo.RooMongoEntity;
 import org.springframework.roo.addon.tostring.RooToString;
 
+import javax.persistence.CascadeType;
+import javax.persistence.OneToMany;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -15,6 +13,7 @@ import java.util.Set;
 @RooToString
 @RooMongoEntity
 public class MenuItem {
+    public enum MenuItemTypes {MenuGroup, MenuItem;}   // Arrays.asList(Menu.MenuItemTypes.values())
 
     private String name;
 

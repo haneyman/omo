@@ -21,7 +21,7 @@ privileged aspect RestaurantIntegrationTest_Roo_IntegrationTest {
     declare @type: RestaurantIntegrationTest: @ContextConfiguration(locations = "classpath:/META-INF/spring/applicationContext*.xml");
     
     @Autowired
-    RestaurantDataOnDemand RestaurantIntegrationTest.dod;
+    private RestaurantDataOnDemand RestaurantIntegrationTest.dod;
     
     @Test
     public void RestaurantIntegrationTest.testCount() {

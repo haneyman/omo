@@ -7,7 +7,8 @@
             <table:column id="c_com_omo_domain_Menu_restaurant" property="restaurant" z="hecGcqroO4w5sblj5WVFHCiHQHc="/>
             <table:column id="c_com_omo_domain_Menu_name" property="name" z="ntdue8krsBUc/zedYjtAWLDxnqU="/>
             <table:column id="c_com_omo_domain_Menu_description" property="description" z="hNGYaJbHi9/IhchdJSVt9fOwIcE="/>
-            <table:column id="c_com_omo_domain_Menu_menuItems" property="menuItems" z="uSI3XZ+ZAakxmvcplOpTn+RA/Bo="/>
+            <table:column id="c_com_omo_domain_Menu_blurb" property="blurb" z="cGHO7ncAvnjCR+HT/z0Hh7zQfxU="/>
+            <table:column id="c_com_omo_domain_Menu_address" property="address" z="7Aw+dbhyEFXCXXya3NTmP7MeaS8="/>
         </table:table>
     </page:list>
 </div>

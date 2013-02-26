@@ -4,12 +4,10 @@
 package com.omo.web;
 
 import com.omo.domain.MenuItem;
-import com.omo.domain.MenuItemTypes;
 import com.omo.repository.MenuItemRepository;
 import com.omo.web.MenuItemController;
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
-import java.util.Arrays;
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -95,7 +93,6 @@ privileged aspect MenuItemController_Roo_Controller {
     void MenuItemController.populateEditForm(Model uiModel, MenuItem menuItem) {
         uiModel.addAttribute("menuItem", menuItem);
         uiModel.addAttribute("menuitems", menuItemRepository.findAll());
-        uiModel.addAttribute("menuitemtypeses", Arrays.asList(MenuItemTypes.values()));
     }
     
     String MenuItemController.encodeUrlPathSegment(String pathSegment, HttpServletRequest httpServletRequest) {

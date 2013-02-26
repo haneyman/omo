@@ -42,4 +42,36 @@ privileged aspect Menu_Roo_JavaBean {
         this.menuItems = menuItems;
     }
     
+    public String Menu.getBlurb() {
+        return this.blurb;
+    }
+    
+    public void Menu.setBlurb(String blurb) {
+        this.blurb = blurb;
+    }
+    
+    public String Menu.getAddress() {
+        return this.address;
+    }
+    
+    public void Menu.setAddress(String address) {
+        this.address = address;
+    }
+    
+    public ORDER_CONTACT_TYPES Menu.getOrderContactType() {
+        return this.orderContactType;
+    }
+    
+    public void Menu.setOrderContactType(ORDER_CONTACT_TYPES orderContactType) {
+        this.orderContactType = orderContactType;
+    }
+    
+    public String Menu.getOrderContact() {
+        return this.orderContact;
+    }
+    
+    public void Menu.setOrderContact(String orderContact) {
+        this.orderContact = orderContact;
+    }
+    
 }

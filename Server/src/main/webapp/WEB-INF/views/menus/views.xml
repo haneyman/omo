@@ -13,4 +13,7 @@
 <definition extends="default" name="menus/update">
         <put-attribute name="body" value="/WEB-INF/views/menus/update.jspx"/>
     </definition>
+    <definition extends="default" name="menus/showMenu">
+        <put-attribute name="body" value="/WEB-INF/views/menus/showMenu.jsp"/>
+    </definition>
 </tiles-definitions>
