@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class MenuServiceImpl implements MenuService {
     private static final String INDENT = "   ";
-    private static final String NEW_LINE = "\n";
+    private static final String NEW_LINE = "";//"\n";
 
     private static org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(MenuServiceImpl.class);
 
@@ -21,7 +21,7 @@ public class MenuServiceImpl implements MenuService {
         Menu menu = findMenu(menuId);
         html.add("   <ul id='menu_" + menuId + "'>" + NEW_LINE);
         for (MenuItem menuItem: menu.getMenuItems()) {
-            loadMenuItem(menuItem, html, 0);
+            loadMenuItem(menuItem, html, 1);
         }
         html.add("   </ul>" + NEW_LINE);
         html.add("</div>" + NEW_LINE);
@@ -37,8 +37,8 @@ public class MenuServiceImpl implements MenuService {
 
         boolean checked = false;
         if (menuItem.getType().equals(MenuItem.MenuItemTypes.MenuGroup)) {
-            html.add("<br/>");
-            html.add("<h3>" + menuItem.getName() + "</h3>");
+            html.add(totalIndention + "<br/>");
+            html.add(totalIndention + "<h3>" + menuItem.getName() + "</h3>");
         } else if (menuItem.getType().equals(MenuItem.MenuItemTypes.MenuItem)) {
             html.add(totalIndention + "<li class=\"nodeLevel" + level + "\"><input type=\"checkbox\" "  + checked
                     + " name=\"menuitem_" + menuItem.getName() + "\" value=\"" + menuItem.getName() + "\">"

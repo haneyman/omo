@@ -42,7 +42,10 @@ public class RestaurantIntegrationTest {
 
         }
 
-        System.out.println("testGetMenuHTML got: " + html.toString());
+        for (String line: html) {
+            System.out.println(line);
+        }
+        //System.out.println("testGetMenuHTML got: " + html.toString());
         //logger.debug("testGetMenuHTML got: " + html.toString());
 
         assertTrue("html for a menu should be " + expectedMinimumSize + " but is " + html.size(), html.size() > expectedMinimumSize);

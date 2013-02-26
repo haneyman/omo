@@ -3,10 +3,10 @@
 
 package com.omo.domain;
 
+import com.omo.domain.Menu;
+import java.math.BigInteger;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.Persistent;
-
-import java.math.BigInteger;
 
 privileged aspect Menu_Roo_Mongo_Entity {
     
