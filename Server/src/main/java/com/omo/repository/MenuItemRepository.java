@@ -1,11 +1,14 @@
 package com.omo.repository;
 
 import com.omo.domain.MenuItem;
-import java.util.List;
+import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.roo.addon.layers.repository.mongo.RooMongoRepository;
 
-@RooMongoRepository(domainType = MenuItem.class)
-public interface MenuItemRepository {
+import java.math.BigInteger;
+import java.util.List;
 
-    List<com.omo.domain.MenuItem> findAll();
+@RooMongoRepository(domainType = MenuItem.class)
+public interface MenuItemRepository  extends PagingAndSortingRepository<MenuItem, BigInteger> {
+
+    List<MenuItem> findAll();
 }

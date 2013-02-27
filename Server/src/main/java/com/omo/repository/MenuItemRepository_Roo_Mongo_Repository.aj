@@ -3,15 +3,10 @@
 
 package com.omo.repository;
 
-import com.omo.domain.MenuItem;
 import com.omo.repository.MenuItemRepository;
-import java.math.BigInteger;
-import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
 
 privileged aspect MenuItemRepository_Roo_Mongo_Repository {
-    
-    declare parents: MenuItemRepository extends PagingAndSortingRepository<MenuItem, BigInteger>;
     
     declare @type: MenuItemRepository: @Repository;
     
